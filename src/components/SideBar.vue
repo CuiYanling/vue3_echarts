@@ -6,7 +6,7 @@
           <span>折线图1</span>
         </a-menu-item>
         <a-menu-item key="2">
-          <span>饼状图</span>
+          <span>饼状图2</span>
         </a-menu-item>
         <a-menu-item key="3">
           <span>柱状图</span>
